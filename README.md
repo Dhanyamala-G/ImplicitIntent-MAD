@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-<img width="1485" height="768" alt="image" src="https://github.com/user-attachments/assets/386b5fae-f24a-4565-91da-cbbcfd3a4548" />
+<img width="1493" height="812" alt="image" src="https://github.com/user-attachments/assets/e8d1aa9b-dc56-440c-b076-67c0d4111aea" />
 
 <img width="1487" height="771" alt="image" src="https://github.com/user-attachments/assets/6ee2a427-27fd-4c10-8759-ac4e1cfbaa25" />
 
